@@ -19,8 +19,8 @@ In INDICATORS:
 1h_MACDL_CROSS_fast_indicator_label = 1h_MACDL
 1h_MACDL_CROSS_fast_indicator = MACD
 
-1h_MACSL_CROSS_fast_indicator_label = 1h_MACSL
-1h_MACSL_CROSS_fast_indicator = MACD(edited)
+1h_MACDSL_CROSS_fast_indicator_label = 1h_MACDSL
+1h_MACDSL_CROSS_fast_indicator = MACD
 [4:05 PM]
 and then in PAIRS you would put something like this
 ### BUY ON CROSS 
